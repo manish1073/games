@@ -471,12 +471,12 @@ button.btn.btn-primary {
 	}
 	.bg-layout:before {
 		top: -44px;
-	}
-	h3 {
-		font-size: 1.25rem;
 	}	
 	.sub-para {
-    	font-size: 16px;
+    	font-size: 14px;
+	}
+	.content h3 {
+		font-size: 15px;
 	}
 	.right-bottom-logo .content {
 		padding: 42px 20px 41px 230px;
@@ -510,13 +510,13 @@ button.btn.btn-primary {
 		margin-top: 70px;
 	}
 
-	h3 {
-		font-size: 1rem;
-	}	
 	.sub-para {
     	font-size: 14px;
 		line-height: 18px;
 	}
+	.content h3 {
+		font-size: 15px;
+	}	
 	.right-bottom-logo .content {
 		padding: 22px ​20px 41px 130px;
 	}
